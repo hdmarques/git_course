@@ -12,6 +12,8 @@ Mais um parágrafo
 
 Um parágrafo diferente.
 
+O comando `git fetch` é utilizado para buscar atualizações do repositório remoto e trazer para o seu repositório local todas as novas informações sobre branches, tags e commits, sem alterar ou mesclar automaticamente o seu código atual. Dessa forma, você pode visualizar e analisar as mudanças feitas por outros colaboradores antes de decidir integrá-las
+
 ### Principais comandos do Git
 
 - `git init`: Inicializa um novo repositório Git.
