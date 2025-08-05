@@ -8,6 +8,8 @@ Este repositório tem como objetivo apresentar conceitos básicos sobre **Git** 
 
 Este é um novo parágrafo
 
+Mais um parágrafo
+
 ### Principais comandos do Git
 
 - `git init`: Inicializa um novo repositório Git.
