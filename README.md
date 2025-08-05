@@ -5,6 +5,7 @@ Este repositório tem como objetivo apresentar conceitos básicos sobre **Git** 
 ## O que é Git?
 
 **Git** é um sistema de controle de versão distribuído, criado para gerenciar projetos de desenvolvimento de software. Ele permite que vários desenvolvedores trabalhem simultaneamente em um mesmo projeto, acompanhando todas as alterações feitas no código.
+Este é um novo parágrafo
 
 ### Principais comandos do Git
 
