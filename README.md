@@ -10,6 +10,8 @@ Este é um novo parágrafo
 
 Mais um parágrafo
 
+Um parágrafo diferente.
+
 ### Principais comandos do Git
 
 - `git init`: Inicializa um novo repositório Git.
